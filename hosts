@@ -1,23 +1,25 @@
-# Copyright (c) 1993-2009 Microsoft Corp.
+#版权(c)1993-2009年微软公司
 #
-# This is a sample HOSTS file used by Microsoft TCP/IP for Windows.
+#这是一个示例主机文件,微软用于Windows的TP/IP。
 #
-# This file contains the mappings of IP addresses to host names. Each
-# entry should be kept on an individual line. The IP address should
-# be placed in the first column followed by the corresponding host name.
-# The IP address and the host name should be separated by at least one
+#此文件包含IP地址到主机名称的映射。各
+#入口应保留在单独的线路上。IP地址应
+#放在第一列中,后面跟着相应的主机名。
+#IP地址及主机名称应至少分隔一个
 # space.
 #
-# Additionally, comments (such as these) may be inserted on individual
-# lines or following the machine name denoted by a '#' symbol.
+#此外,可对个人提出评论(例如这些评论)。
+#行或后面的机器名以"#"符号表示。
 #
-# For example:
+#例如:
 #
-#      102.54.94.97     rhino.acme.com          # source server
-#       38.25.63.10     x.acme.com              # x client host
+#102.54.94.97莱茵网。
+#38.25.63.10X.acme.com#X客户端主机
 
-# localhost name resolution is handled within DNS itself.
+#本地主机名称解析在DNS本身内部处理。
 #	127.0.0.1       localhost
 #	::1             localhost
 
 127.0.0.1	ieonline.microsoft.com
+99.84.238.101	image.tmdb.org
+54.192.175.87	api.themoviedb.org
